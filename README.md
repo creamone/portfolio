@@ -15,4 +15,4 @@
 
 ###   1. [MyLittleTrip](https://github.com/creamone/MyLittelTrip_backend)
 
-      여행 일정 추천 서비스
+&nbsp; &nbsp; 여행 일정 추천 서비스
