@@ -22,10 +22,10 @@
 
 ###   2. [MyLittleShoes](https://github.com/creamone/mylittleshoes_backend)
 
-> 여행 일정 추천 서비스 (팀 프로젝트)
-> 개발 기간:2022.06.28-07.06
-> 기술 스택: Django/JavaScript
-> [프로젝트 상세 설명](https://kidcozykim.tistory.com/85)
+> 여행 일정 추천 서비스 (팀 프로젝트)  
+> 개발 기간:2022.06.28-07.06  
+> 기술 스택: Django/JavaScript  
+> [프로젝트 상세 설명](https://kidcozykim.tistory.com/85)  
 
 
 
