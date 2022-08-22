@@ -22,3 +22,16 @@
 &nbsp; &nbsp; 기술 스택: Django/Docker/Nginx/Gunicorn/React
 <br/>
 &nbsp; &nbsp; [프로젝트 상세 설명](https://kidcozykim.tistory.com/84)
+
+###   2. [MyLittleShoes](https://github.com/creamone/mylittleshoes_backend)
+
+&nbsp; &nbsp; 여행 일정 추천 서비스 (팀 프로젝트)
+<br/>
+&nbsp; &nbsp; 개발 기간:2022.06.28-07.06
+<br/>
+&nbsp; &nbsp; 기술 스택: Django/JavaScript
+<br/>
+&nbsp; &nbsp; [프로젝트 상세 설명](https://kidcozykim.tistory.com/85)
+
+
+
