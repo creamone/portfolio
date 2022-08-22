@@ -19,4 +19,5 @@
 &nbsp; &nbsp; 개발 기간:2022.07.07-08.16
 <br/>
 &nbsp; &nbsp; 기술 스택: Django/Docker/Nginx/Gunicorn/React
+<br/>
 &nbsp; &nbsp; [프로젝트 상세 설명](https://kidcozykim.tistory.com/84)
