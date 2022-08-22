@@ -15,7 +15,7 @@
 
 ###   1. [MyLittleTrip](https://github.com/creamone/MyLittelTrip_backend)
 
-&nbsp; &nbsp; 여행 일정 추천 서비스 (팀 프로젝트)
+&nbsp; &nbsp; > 여행 일정 추천 서비스 (팀 프로젝트)
 <br/>
 &nbsp; &nbsp; 개발 기간:2022.07.07-08.16
 <br/>
