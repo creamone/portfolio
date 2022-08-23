@@ -34,7 +34,7 @@
 ###   3.🍻MyLittleShoes
 
 > 맥주 추천 서비스 (팀 프로젝트)  
-> 개발 기간:2022.06.02-06.13 
-> 기술스택 : python3, Django, sqlite3, MySQL, Javascript
-> [프로젝트 상세 설명](https://github.com/creamone/mylittlebeer)  
+> 개발 기간:2022.06.02-06.13  
+> 기술스택 : python3, Django, sqlite3, MySQL, Javascript  
+> [프로젝트 상세 설명](https://github.com/creamone/mylittlebeer)   
 
