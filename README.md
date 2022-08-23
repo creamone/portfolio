@@ -13,28 +13,28 @@
 
 # 📝 Projects
 
-###   1. 🛫[MyLittleTrip](https://github.com/creamone/MyLittelTrip_backend)
+###   1.🛫MyLittleTrip
 
 >  여행 일정 추천 서비스 (팀 프로젝트)  
 >  개발 기간:2022.07.07-08.16  
 >  기술 스택: python3, Django, Django-rest-framework, Node.js, React.js, sqlite3, PostreSQL  
->  [프로젝트 상세 설명](https://kidcozykim.tistory.com/84)  
+>  [프로젝트 상세 설명](https://github.com/creamone/MyLittelTrip_backend)  
 
 <br />
 
-###   2.👞[MyLittleShoes](https://github.com/creamone/mylittleshoes_backend)
+###   2.👞MyLittleShoes
 
 > 신발 스타일링 서비스 (팀 프로젝트)  
 > 개발 기간:2022.06.28-07.06  
 > 기술 스택: python3, Django, Django-rest-framework, sqlite3  
-> [프로젝트 상세 설명](https://kidcozykim.tistory.com/85)  
+> [프로젝트 상세 설명](https://github.com/creamone/mylittleshoes_backend)  
 
 <br />
 
-###   3.🍻[MyLittleShoes](https://github.com/creamone/mylittlebeer)
+###   3.🍻MyLittleShoes
 
 > 맥주 추천 서비스 (팀 프로젝트)  
 > 개발 기간:2022.06.02-06.13 
 > 기술스택 : python3, Django, sqlite3, MySQL, Javascript
-> [프로젝트 상세 설명](https://kidcozykim.tistory.com/85)  
+> [프로젝트 상세 설명](https://github.com/creamone/mylittlebeer)  
 
