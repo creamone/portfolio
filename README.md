@@ -22,7 +22,7 @@
 > - Language : python3  
 > - Skill : Django, Django-rest-framework, PostgreSQL
 > 
-> [프로젝트 상세 설명(Back-end)](https://github.com/creamone/MyLittelTrip_backend)  
+> [프로젝트 상세 설명](https://github.com/creamone/MyLittelTrip_backend)  
 
 
 <br />
