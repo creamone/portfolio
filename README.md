@@ -12,28 +12,51 @@
 - 깃헙:https://github.com/creamone
 # 📝 Projects
 
-###   1.🛫MyLittleTrip
+### 1. 🛫 MyLittleTrip
 
->  여행 일정 추천 서비스 (팀 프로젝트)  
->  개발 기간:2022.07.07-08.16  
->  기술 스택: python3, Django, Django-rest-framework, Node.js, React.js, sqlite3, PostreSQL  
->  [프로젝트 상세 설명](https://github.com/creamone/MyLittelTrip_backend)  
+> 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
+>
+> - 개발기간 : 2022.07.07-09.02
+> - 핵심역할 : 여행 장소 추가 및 수정 삭제 기능 구현 및 서버 배포 경험(진행중)
+
+>
+>> Back-end
+>> - Language : python3  
+>> - Skill : Django, Django-rest-framework, PostgreSQL
+>> 
+>> [프로젝트 상세 설명(Back-end)](https://github.com/creamone/MyLittelTrip_backend)  
+>
+>> Front-end
+>> - Language : javascript
+>> - Skill : React.js
+>>
+>> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
 
 <br />
 
-###   2.👞MyLittleShoes
+### 2. 👞 MyLittleShoes
 
-> 신발 스타일링 서비스 (팀 프로젝트)  
-> 개발 기간:2022.06.28-07.06  
-> 기술 스택: python3, Django, Django-rest-framework, sqlite3  
-> [프로젝트 상세 설명](https://github.com/creamone/mylittleshoes_backend)  
+> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+>
+> - 개발기간 : 2022.06.28-07.06
+> - 핵심 역할 : 추천 페이지에 브랜드별 혹은 색깔별 리스트 표기 구현
+> - Language : python3
+> - Skill : Django, Django-rest-framework
+>
+> [프로젝트 상세 설명](https://github.com/creamone/mylittleshoes_backend)
 
 <br />
 
-###   3.🍻MyLittleBeer
+### 3. 🍻 MyLittleBeer
 
-> 맥주 추천 서비스 (팀 프로젝트)  
-> 개발 기간:2022.06.02-06.13  
-> 기술스택 : python3, Django, sqlite3, MySQL, Javascript  
-> [프로젝트 상세 설명](https://github.com/creamone/mylittlebeer)   
+> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+>
+> - 개발기간 : 2022.06.02-06.13
+> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
+> - Language : python3, javascript
+> - Skill : Django, MySQL
+>
+> [프로젝트 상세 설명](https://github.com/creamone/mylittlebeer)
+
+<br />
 
