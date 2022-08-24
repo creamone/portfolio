@@ -19,13 +19,11 @@
 > - 개발기간 : 2022.07.07-09.02
 > - 핵심역할 : 여행 장소 추가 및 수정 삭제 기능 구현 및 docker를 통한 서버 배포 경험(진행중)
 
->
->> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
->> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/creamone/MyLittelTrip_backend)  
->
+> - Language : python3  
+> - Skill : Django, Django-rest-framework, PostgreSQL
+> 
+> [프로젝트 상세 설명(Back-end)](https://github.com/creamone/MyLittelTrip_backend)  
+
 
 <br />
 
