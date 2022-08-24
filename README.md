@@ -10,7 +10,6 @@
 - 이메일:gsukim777@gmail.com
 - 블로그:https://kidcozykim.tistory.com
 - 깃헙:https://github.com/creamone
-- H.P:010-2191-4256
 # 📝 Projects
 
 ###   1.🛫MyLittleTrip
